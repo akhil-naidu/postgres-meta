@@ -111,7 +111,3 @@ bin/
 
 # postgres-meta
 openapi.json
-
-# Docker
-.dockerignore
-Dockerfile
